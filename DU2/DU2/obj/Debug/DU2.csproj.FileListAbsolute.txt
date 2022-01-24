@@ -1,0 +1,10 @@
+D:\Koj\Programování\GitHub\C#\DU2\DU2\DU2\bin\Debug\DU2.exe.config
+D:\Koj\Programování\GitHub\C#\DU2\DU2\DU2\bin\Debug\DU2.exe
+D:\Koj\Programování\GitHub\C#\DU2\DU2\DU2\bin\Debug\DU2.pdb
+D:\Koj\Programování\GitHub\C#\DU2\DU2\DU2\obj\Debug\DU2.csprojAssemblyReference.cache
+D:\Koj\Programování\GitHub\C#\DU2\DU2\DU2\obj\Debug\DU2.Form1.resources
+D:\Koj\Programování\GitHub\C#\DU2\DU2\DU2\obj\Debug\DU2.Properties.Resources.resources
+D:\Koj\Programování\GitHub\C#\DU2\DU2\DU2\obj\Debug\DU2.csproj.GenerateResource.cache
+D:\Koj\Programování\GitHub\C#\DU2\DU2\DU2\obj\Debug\DU2.csproj.CoreCompileInputs.cache
+D:\Koj\Programování\GitHub\C#\DU2\DU2\DU2\obj\Debug\DU2.exe
+D:\Koj\Programování\GitHub\C#\DU2\DU2\DU2\obj\Debug\DU2.pdb
