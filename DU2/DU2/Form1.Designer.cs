@@ -42,6 +42,7 @@
             this.textBox1.BackColor = System.Drawing.Color.WhiteSmoke;
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox1.Font = new System.Drawing.Font("Comic Sans MS", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.textBox1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(90)))), ((int)(((byte)(90)))), ((int)(((byte)(90)))));
             this.textBox1.Location = new System.Drawing.Point(411, 12);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
@@ -52,6 +53,7 @@
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("Ebrima", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(90)))), ((int)(((byte)(90)))), ((int)(((byte)(90)))));
             this.label1.Location = new System.Drawing.Point(12, 12);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(372, 172);
@@ -78,7 +80,7 @@
             // label2
             // 
             this.label2.Font = new System.Drawing.Font("Ebrima", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label2.ForeColor = System.Drawing.Color.DimGray;
+            this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(90)))), ((int)(((byte)(90)))), ((int)(((byte)(90)))));
             this.label2.Location = new System.Drawing.Point(12, 184);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(372, 41);
@@ -88,7 +90,7 @@
             // label3
             // 
             this.label3.Font = new System.Drawing.Font("Ebrima", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label3.ForeColor = System.Drawing.Color.DimGray;
+            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(90)))), ((int)(((byte)(90)))), ((int)(((byte)(90)))));
             this.label3.Location = new System.Drawing.Point(12, 225);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(372, 41);
@@ -98,7 +100,7 @@
             // label4
             // 
             this.label4.Font = new System.Drawing.Font("Ebrima", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label4.ForeColor = System.Drawing.Color.DimGray;
+            this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(90)))), ((int)(((byte)(90)))), ((int)(((byte)(90)))));
             this.label4.Location = new System.Drawing.Point(12, 266);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(372, 41);
